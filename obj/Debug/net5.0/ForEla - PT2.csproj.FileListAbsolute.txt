@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\ForEla - PT2\bin\Debug\net5.0\ForEla - PT2.exe
+C:\Users\User\Desktop\ForEla - PT2\bin\Debug\net5.0\ForEla - PT2.deps.json
+C:\Users\User\Desktop\ForEla - PT2\bin\Debug\net5.0\ForEla - PT2.runtimeconfig.json
+C:\Users\User\Desktop\ForEla - PT2\bin\Debug\net5.0\ForEla - PT2.runtimeconfig.dev.json
+C:\Users\User\Desktop\ForEla - PT2\bin\Debug\net5.0\ForEla - PT2.dll
+C:\Users\User\Desktop\ForEla - PT2\bin\Debug\net5.0\ref\ForEla - PT2.dll
+C:\Users\User\Desktop\ForEla - PT2\bin\Debug\net5.0\ForEla - PT2.pdb
+C:\Users\User\Desktop\ForEla - PT2\obj\Debug\net5.0\ForEla - PT2.csprojAssemblyReference.cache
+C:\Users\User\Desktop\ForEla - PT2\obj\Debug\net5.0\ForEla - PT2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ForEla - PT2\obj\Debug\net5.0\ForEla - PT2.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ForEla - PT2\obj\Debug\net5.0\ForEla - PT2.AssemblyInfo.cs
+C:\Users\User\Desktop\ForEla - PT2\obj\Debug\net5.0\ForEla - PT2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ForEla - PT2\obj\Debug\net5.0\ForEla - PT2.dll
+C:\Users\User\Desktop\ForEla - PT2\obj\Debug\net5.0\ref\ForEla - PT2.dll
+C:\Users\User\Desktop\ForEla - PT2\obj\Debug\net5.0\ForEla - PT2.pdb
+C:\Users\User\Desktop\ForEla - PT2\obj\Debug\net5.0\ForEla - PT2.genruntimeconfig.cache
